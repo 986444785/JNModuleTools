@@ -1,0 +1,16 @@
+PODS:
+  - JNModuleTool (0.1.0)
+
+DEPENDENCIES:
+  - JNModuleTool (from `Lib/JNModuleTool`)
+
+EXTERNAL SOURCES:
+  JNModuleTool:
+    :path: Lib/JNModuleTool
+
+SPEC CHECKSUMS:
+  JNModuleTool: cf378aea7594a1178de2f4cc7ad8ee738b54692c
+
+PODFILE CHECKSUM: 6523d4968d96418beb34bdadbf04a00632431ae1
+
+COCOAPODS: 1.7.0
